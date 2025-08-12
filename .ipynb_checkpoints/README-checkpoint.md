@@ -1,8 +1,4 @@
-![NERSC Logo](https://noirlab.edu/public/media/archives/logos/original_trans/logo087.png)
-## National Energy Research Scientific Computing Center
-
-# Introduction to High Performance Computing Bootcamp - Argonne National Laboratory August 2025
-
+# DOE_HPC_Bootcamp_2025
 NERSC Projects for the DOE Bootcamp- https://intro-hpc-bootcamp.alcf.anl.gov
 # NERSC DOE HPC Bootcamp 2025
 
